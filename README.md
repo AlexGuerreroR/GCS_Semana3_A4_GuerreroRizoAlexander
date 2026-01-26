@@ -1,1 +1,0 @@
-# GCS_Semana3_A4_GuerreroRizoAlexander

@@ -1,0 +1,4 @@
+APP_NAME=MAX Inventory
+ENV=DEV
+DB_CONNECTION=Server=localhost;Database=MAXInventory;Trusted_Connection=True;
+LOG_LEVEL=INFO

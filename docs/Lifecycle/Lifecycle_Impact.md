@@ -10,3 +10,5 @@ Cambio simulado (REQ-007):
 | Implementación | Crear función para exportar CSV | /src | Bugs / datos incompletos | Ejecución local |
 | Pruebas | Agregar prueba de exportación | /tests | "funciona en mi PC" | Captura de ejecución |
 | Release | Documentar el cambio en versión | CHANGELOG.md | Nadie sabe qué cambió | Changelog actualizado |
+
+REQ-007 aprobado para la versión v1.0.
